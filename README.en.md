@@ -22,7 +22,6 @@ engine build. This is not a claim of full gameplay-hook compatibility.
 - STALKER 2-specific `FMalloc` vtable padding
 - gameplay hooks disabled for the stable dumping profile
 
-See [`docs/TECHNICAL_NOTES.md`](docs/TECHNICAL_NOTES.md).
 
 ## Install
 
