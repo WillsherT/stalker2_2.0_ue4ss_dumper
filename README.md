@@ -26,7 +26,6 @@
 5. `LoadMap` hook приводил к падению;
 6. для стабильного дампа gameplay hooks были отключены.
 
-Подробности: [`docs/TECHNICAL_NOTES.md`](docs/TECHNICAL_NOTES.md).
 
 ## Быстрая установка
 
