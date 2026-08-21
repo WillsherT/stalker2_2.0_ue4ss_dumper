@@ -1,0 +1,7 @@
+*.bak
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+UE4SS.log
+*.dmp

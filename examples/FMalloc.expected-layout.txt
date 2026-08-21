@@ -1,0 +1,32 @@
+Observed STALKER 2 Update 2.0 FMalloc vtable slots
+
++0x00  __vecDelDtor
++0x08  extra inherited FExec slot
++0x10  extra inherited FExec slot
++0x18  extra inherited FExec slot
++0x20  extra inherited FExec slot
++0x28  Malloc
++0x30  TryMalloc
++0x38  Realloc
++0x40  TryRealloc
++0x48  Free
++0x50  MallocZeroed
++0x58  TryMallocZeroed
++0x60  QuantizeSize
++0x68  GetAllocationSize
++0x70  Trim
++0x78  SetupTLSCachesOnCurrentThread
++0x80  MarkTLSCachesAsUsedOnCurrentThread
++0x88  MarkTLSCachesAsUnusedOnCurrentThread
++0x90  ClearAndDisableTLSCachesOnCurrentThread
++0x98  InitializeStatsMetadata
++0xA0  UpdateStats
++0xA8  GetAllocatorStats
++0xB0  DumpAllocatorStats
++0xB8  IsInternallyThreadSafe
++0xC0  ValidateHeap
++0xC8  GetDescriptiveName
++0xD0  OnMallocInitialized
++0xD8  OnPreFork
++0xE0  OnPostFork
++0xE8  GetFreeCachedMemorySize
